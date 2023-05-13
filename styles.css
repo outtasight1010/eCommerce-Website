@@ -289,7 +289,9 @@ padding-right: 30px;
       .pr4 button{
         
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
 
       .pr5{
@@ -324,7 +326,9 @@ padding-right: 30px;
       .pr5 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
 
       .pr6{
@@ -359,7 +363,9 @@ padding-right: 30px;
       .pr6 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
       
       .pr7 img{
@@ -407,7 +413,9 @@ padding-right: 30px;
       .pr10 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
       .pr11{
         margin-top: -30px;
@@ -441,7 +449,9 @@ padding-right: 30px;
       .pr11 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
       .pr12{
         margin-top: -30px;
@@ -475,7 +485,9 @@ padding-right: 30px;
       .pr12 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
 
       .pr13 img{
@@ -523,7 +535,9 @@ padding-right: 30px;
       .pr16 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
       .pr17{
         margin-top: -30px;
@@ -557,7 +571,9 @@ padding-right: 30px;
       .pr17 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
       .pr18{
         margin-top: -30px;
@@ -591,7 +607,9 @@ padding-right: 30px;
       .pr18 button{
       
         font-size:8px;
-        color:orange;
+        color:white;
+        border-bottom: orange;
+        background-color: orange;
       }
 
       .contact-container h6{
@@ -621,8 +639,11 @@ padding-right: 30px;
       ;
       }
       .contact-form button{
-        color: orange;
-        margin-left: 26%;
+        color:white;
+        margin-left: 35%;
+        border-color: orange;
+        background-color: orange;
+        width:5%
         
       }
 
