@@ -223,7 +223,7 @@ padding-right: 30px;
     .description-container {
       
       clear: both;
-      background-color: aquamarine;
+      background-color:aquamarine;
       display: grid;
       height: 140vh;
       margin: 5rem;
@@ -267,6 +267,7 @@ padding-right: 30px;
         padding-left:130px;
         float: top;
         text-decoration: underline;
+        
       }
       .pr4 p{
         font-size:10px;
@@ -591,6 +592,38 @@ padding-right: 30px;
       
         font-size:8px;
         color:orange;
+      }
+
+      .contact-container h6{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: black;
+      font-size: 30px;
+      margin-top: -80px;
+      
+      }
+
+      .contact-container{
+        float: inline-start;
+        padding-left: 60px;
+        margin-top: -70px;
+      }
+      .contact-container h2{
+        display: flex;
+        margin-top: -70px;
+      }
+      .contact-form{
+        padding-left: 200px;
+      }
+
+      .contact-form  label{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: smaller;
+      ;
+      }
+      .contact-form button{
+        color: orange;
+        margin-left: 26%;
+        
       }
 
 
