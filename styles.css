@@ -223,7 +223,7 @@ padding-right: 30px;
     .description-container {
       
       clear: both;
-      background-color:aquamarine;
+      background-color:white;
       display: grid;
       height: 140vh;
       margin: 5rem;
@@ -644,6 +644,18 @@ padding-right: 30px;
         border-color: orange;
         background-color: orange;
         width:5%
+        
+      }
+
+      .footer-container{
+        background-color: orange;
+        display:grid;
+        clear: both;
+       height: 15vh;
+       margin: 1rem;
+      
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr ;
         
       }
 
